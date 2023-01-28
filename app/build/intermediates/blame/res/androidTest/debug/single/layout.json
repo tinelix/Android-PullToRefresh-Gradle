@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Stuff\\GitHub\\Android-PullToRefresh-Gradle\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "D:\\Stuff\\GitHub\\Android-PullToRefresh-Gradle\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "D:\\Stuff\\GitHub\\Android-PullToRefresh-Gradle\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "D:\\Stuff\\GitHub\\Android-PullToRefresh-Gradle\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    }
+]
