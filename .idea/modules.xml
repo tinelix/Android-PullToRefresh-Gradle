@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Android-PullToRefresh-Gradle.iml" filepath="$PROJECT_DIR$/Android-PullToRefresh-Gradle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2r-lib/p2r-lib.iml" filepath="$PROJECT_DIR$/p2r-lib/p2r-lib.iml" />
     </modules>
   </component>
 </project>

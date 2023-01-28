@@ -1,7 +1,231 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa282f63-578f-4469-a885-bf4fe61c8c2d" name="Default" comment="" />
+    <list default="true" id="aa282f63-578f-4469-a885-bf4fe61c8c2d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/p2r-lib/p2r-lib.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/p2r-lib/build.gradle" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/androidTest/debug/com/handmark/pulltorefresh/library/test/BuildConfig.java" afterPath="$PROJECT_DIR$/p2r-lib/build/generated/source/buildConfig/androidTest/debug/com/handmark/pulltorefresh/library/test/BuildConfig.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/handmark/pulltorefresh/library/BuildConfig.java" afterPath="$PROJECT_DIR$/p2r-lib/build/generated/source/buildConfig/debug/com/handmark/pulltorefresh/library/BuildConfig.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/generated/source/r/androidTest/debug/com/handmark/pulltorefresh/library/R.java" afterPath="$PROJECT_DIR$/p2r-lib/build/generated/source/r/androidTest/debug/com/handmark/pulltorefresh/library/R.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/generated/source/r/androidTest/debug/com/handmark/pulltorefresh/library/test/R.java" afterPath="$PROJECT_DIR$/p2r-lib/build/generated/source/r/androidTest/debug/com/handmark/pulltorefresh/library/test/R.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/handmark/pulltorefresh/library/R.java" afterPath="$PROJECT_DIR$/p2r-lib/build/generated/source/r/debug/com/handmark/pulltorefresh/library/R.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/androidTest/debug/multi/values-ar.json" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/blame/res/androidTest/debug/multi/values-ar.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/androidTest/debug/multi/values-cs.json" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/blame/res/androidTest/debug/multi/values-cs.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/androidTest/debug/multi/values-de.json" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/blame/res/androidTest/debug/multi/values-de.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/androidTest/debug/multi/values-es.json" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/blame/res/androidTest/debug/multi/values-es.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/androidTest/debug/multi/values-fi.json" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/blame/res/androidTest/debug/multi/values-fi.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/androidTest/debug/multi/values-fr.json" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/blame/res/androidTest/debug/multi/values-fr.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/androidTest/debug/multi/values-he.json" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/blame/res/androidTest/debug/multi/values-he.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/androidTest/debug/multi/values-it.json" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/blame/res/androidTest/debug/multi/values-it.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/androidTest/debug/multi/values-iw.json" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/blame/res/androidTest/debug/multi/values-iw.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/androidTest/debug/multi/values-ja.json" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/blame/res/androidTest/debug/multi/values-ja.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/androidTest/debug/multi/values-ko.json" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/blame/res/androidTest/debug/multi/values-ko.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/androidTest/debug/multi/values-nl.json" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/blame/res/androidTest/debug/multi/values-nl.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/androidTest/debug/multi/values-pl.json" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/blame/res/androidTest/debug/multi/values-pl.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/androidTest/debug/multi/values-pt-rBR.json" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/blame/res/androidTest/debug/multi/values-pt-rBR.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/androidTest/debug/multi/values-pt.json" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/blame/res/androidTest/debug/multi/values-pt.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/androidTest/debug/multi/values-ro.json" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/blame/res/androidTest/debug/multi/values-ro.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/androidTest/debug/multi/values-ru.json" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/blame/res/androidTest/debug/multi/values-ru.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/androidTest/debug/multi/values-zh.json" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/blame/res/androidTest/debug/multi/values-zh.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/androidTest/debug/multi/values.json" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/blame/res/androidTest/debug/multi/values.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/androidTest/debug/single/anim.json" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/blame/res/androidTest/debug/single/anim.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/androidTest/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/blame/res/androidTest/debug/single/drawable-hdpi-v4.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/androidTest/debug/single/drawable-mdpi-v4.json" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/blame/res/androidTest/debug/single/drawable-mdpi-v4.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/androidTest/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/blame/res/androidTest/debug/single/drawable-xhdpi-v4.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/androidTest/debug/single/drawable.json" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/blame/res/androidTest/debug/single/drawable.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/androidTest/debug/single/layout.json" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/blame/res/androidTest/debug/single/layout.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/AndroidManifest.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/R.txt" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/R.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/anim/slide_in_from_bottom.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/anim/slide_in_from_bottom.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/anim/slide_in_from_top.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/anim/slide_in_from_top.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/anim/slide_out_to_bottom.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/anim/slide_out_to_bottom.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/anim/slide_out_to_top.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/anim/slide_out_to_top.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/drawable-hdpi-v4/default_ptr_flip.png" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/default_ptr_flip.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/drawable-hdpi-v4/default_ptr_rotate.png" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/default_ptr_rotate.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/drawable-hdpi-v4/indicator_arrow.png" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/indicator_arrow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/drawable-mdpi-v4/default_ptr_flip.png" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/default_ptr_flip.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/drawable-mdpi-v4/default_ptr_rotate.png" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/default_ptr_rotate.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/drawable-mdpi-v4/indicator_arrow.png" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/indicator_arrow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/default_ptr_flip.png" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/default_ptr_flip.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/default_ptr_rotate.png" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/default_ptr_rotate.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/indicator_arrow.png" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/indicator_arrow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/drawable/indicator_bg_bottom.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/drawable/indicator_bg_bottom.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/drawable/indicator_bg_top.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/drawable/indicator_bg_top.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/layout/pull_to_refresh_header_horizontal.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/layout/pull_to_refresh_header_horizontal.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/layout/pull_to_refresh_header_vertical.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/layout/pull_to_refresh_header_vertical.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/values-ar/values-ar.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/values-ar/values-ar.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/values-cs/values-cs.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/values-cs/values-cs.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/values-de/values-de.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/values-de/values-de.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/values-es/values-es.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/values-es/values-es.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/values-fi/values-fi.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/values-fi/values-fi.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/values-fr/values-fr.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/values-fr/values-fr.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/values-he/values-he.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/values-he/values-he.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/values-it/values-it.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/values-it/values-it.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/values-iw/values-iw.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/values-iw/values-iw.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/values-ja/values-ja.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/values-ja/values-ja.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/values-ko/values-ko.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/values-ko/values-ko.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/values-nl/values-nl.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/values-nl/values-nl.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/values-pl/values-pl.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/values-pl/values-pl.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/values-pt-rBR/values-pt-rBR.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/values-pt-rBR/values-pt-rBR.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/values-pt/values-pt.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/values-pt/values-pt.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/values-ro/values-ro.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/values-ro/values-ro.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/values-ru/values-ru.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/values-ru/values-ru.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/values-zh/values-zh.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/values-zh/values-zh.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/bundles/debug/res/values/values.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/bundles/debug/res/values/values.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/compileDebugAidl/dependency.store" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/compileDebugAidl/dependency.store" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/compileDebugAndroidTestAidl/dependency.store" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/compileDebugAndroidTestAidl/dependency.store" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ar/values-ar.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ar/values-ar.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-cs/values-cs.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-cs/values-cs.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-de/values-de.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-de/values-de.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-es/values-es.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-es/values-es.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-fi/values-fi.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-fi/values-fi.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-fr/values-fr.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-fr/values-fr.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-he/values-he.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-he/values-he.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-it/values-it.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-it/values-it.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-iw/values-iw.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-iw/values-iw.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ja/values-ja.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ja/values-ja.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ko/values-ko.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ko/values-ko.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-nl/values-nl.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-nl/values-nl.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-pl/values-pl.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-pl/values-pl.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-pt/values-pt.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-pt/values-pt.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ro/values-ro.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ro/values-ro.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ru/values-ru.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ru/values-ru.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-zh/values-zh.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-zh/values-zh.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/mergeDebugShaders/merger.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebugResources/merged.dir/values-ar/values-ar.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/packageDebugResources/merged.dir/values-ar/values-ar.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebugResources/merged.dir/values-cs/values-cs.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/packageDebugResources/merged.dir/values-cs/values-cs.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebugResources/merged.dir/values-de/values-de.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/packageDebugResources/merged.dir/values-de/values-de.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebugResources/merged.dir/values-es/values-es.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/packageDebugResources/merged.dir/values-es/values-es.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebugResources/merged.dir/values-fi/values-fi.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/packageDebugResources/merged.dir/values-fi/values-fi.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebugResources/merged.dir/values-fr/values-fr.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/packageDebugResources/merged.dir/values-fr/values-fr.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebugResources/merged.dir/values-he/values-he.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/packageDebugResources/merged.dir/values-he/values-he.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebugResources/merged.dir/values-it/values-it.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/packageDebugResources/merged.dir/values-it/values-it.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebugResources/merged.dir/values-iw/values-iw.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/packageDebugResources/merged.dir/values-iw/values-iw.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebugResources/merged.dir/values-ja/values-ja.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/packageDebugResources/merged.dir/values-ja/values-ja.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebugResources/merged.dir/values-ko/values-ko.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/packageDebugResources/merged.dir/values-ko/values-ko.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebugResources/merged.dir/values-nl/values-nl.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/packageDebugResources/merged.dir/values-nl/values-nl.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebugResources/merged.dir/values-pl/values-pl.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/packageDebugResources/merged.dir/values-pl/values-pl.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/packageDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebugResources/merged.dir/values-pt/values-pt.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/packageDebugResources/merged.dir/values-pt/values-pt.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebugResources/merged.dir/values-ro/values-ro.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/packageDebugResources/merged.dir/values-ro/values-ro.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebugResources/merged.dir/values-ru/values-ru.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/packageDebugResources/merged.dir/values-ru/values-ru.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebugResources/merged.dir/values-zh/values-zh.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/packageDebugResources/merged.dir/values-zh/values-zh.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebugResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/packageDebugResources/merged.dir/values/values.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebugResources/merger.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/incremental/packageDebugResources/merger.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/aapt/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/manifests/aapt/debug/AndroidManifest.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/anim/slide_in_from_bottom.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/anim/slide_in_from_bottom.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/anim/slide_in_from_top.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/anim/slide_in_from_top.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/anim/slide_out_to_bottom.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/anim/slide_out_to_bottom.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/anim/slide_out_to_top.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/anim/slide_out_to_top.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/default_ptr_flip.png" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/default_ptr_flip.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/default_ptr_rotate.png" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/default_ptr_rotate.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/indicator_arrow.png" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/indicator_arrow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/default_ptr_flip.png" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/default_ptr_flip.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/default_ptr_rotate.png" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/default_ptr_rotate.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/indicator_arrow.png" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/indicator_arrow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/default_ptr_flip.png" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/default_ptr_flip.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/default_ptr_rotate.png" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/default_ptr_rotate.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/indicator_arrow.png" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/indicator_arrow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/drawable/indicator_bg_bottom.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/drawable/indicator_bg_bottom.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/drawable/indicator_bg_top.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/drawable/indicator_bg_top.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/layout/pull_to_refresh_header_horizontal.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/layout/pull_to_refresh_header_horizontal.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/layout/pull_to_refresh_header_vertical.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/layout/pull_to_refresh_header_vertical.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/values-ar/values-ar.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/values-ar/values-ar.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/values-cs/values-cs.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/values-cs/values-cs.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/values-de/values-de.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/values-de/values-de.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/values-es/values-es.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/values-es/values-es.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/values-fi/values-fi.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/values-fi/values-fi.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/values-fr/values-fr.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/values-fr/values-fr.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/values-he/values-he.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/values-he/values-he.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/values-it/values-it.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/values-it/values-it.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/values-iw/values-iw.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/values-iw/values-iw.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/values-ja/values-ja.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/values-ja/values-ja.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/values-ko/values-ko.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/values-ko/values-ko.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/values-nl/values-nl.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/values-nl/values-nl.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/values-pl/values-pl.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/values-pl/values-pl.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/values-pt-rBR/values-pt-rBR.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/values-pt-rBR/values-pt-rBR.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/values-pt/values-pt.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/values-pt/values-pt.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/values-ro/values-ro.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/values-ro/values-ro.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/values-ru/values-ru.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/values-ru/values-ru.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/values-zh/values-zh.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/values-zh/values-zh.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest/debug/values/values.xml" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/merged/androidTest/debug/values/values.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/res/resources-debug-androidTest.ap_" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/intermediates/symbols/androidTest/debug/R.txt" afterPath="$PROJECT_DIR$/p2r-lib/build/intermediates/symbols/androidTest/debug/R.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/build/outputs/aar/app-debug.aar" afterPath="$PROJECT_DIR$/p2r-lib/build/outputs/aar/app-debug.aar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/p2r-lib/src/main/AndroidManifest.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/handmark/pulltorefresh/library/ILoadingLayout.java" afterPath="$PROJECT_DIR$/p2r-lib/src/main/java/com/handmark/pulltorefresh/library/ILoadingLayout.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/handmark/pulltorefresh/library/IPullToRefresh.java" afterPath="$PROJECT_DIR$/p2r-lib/src/main/java/com/handmark/pulltorefresh/library/IPullToRefresh.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/handmark/pulltorefresh/library/LoadingLayoutProxy.java" afterPath="$PROJECT_DIR$/p2r-lib/src/main/java/com/handmark/pulltorefresh/library/LoadingLayoutProxy.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/handmark/pulltorefresh/library/OverscrollHelper.java" afterPath="$PROJECT_DIR$/p2r-lib/src/main/java/com/handmark/pulltorefresh/library/OverscrollHelper.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/handmark/pulltorefresh/library/PullToRefreshAdapterViewBase.java" afterPath="$PROJECT_DIR$/p2r-lib/src/main/java/com/handmark/pulltorefresh/library/PullToRefreshAdapterViewBase.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/handmark/pulltorefresh/library/PullToRefreshBase.java" afterPath="$PROJECT_DIR$/p2r-lib/src/main/java/com/handmark/pulltorefresh/library/PullToRefreshBase.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/handmark/pulltorefresh/library/PullToRefreshExpandableListView.java" afterPath="$PROJECT_DIR$/p2r-lib/src/main/java/com/handmark/pulltorefresh/library/PullToRefreshExpandableListView.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/handmark/pulltorefresh/library/PullToRefreshGridView.java" afterPath="$PROJECT_DIR$/p2r-lib/src/main/java/com/handmark/pulltorefresh/library/PullToRefreshGridView.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/handmark/pulltorefresh/library/PullToRefreshHorizontalScrollView.java" afterPath="$PROJECT_DIR$/p2r-lib/src/main/java/com/handmark/pulltorefresh/library/PullToRefreshHorizontalScrollView.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/handmark/pulltorefresh/library/PullToRefreshListView.java" afterPath="$PROJECT_DIR$/p2r-lib/src/main/java/com/handmark/pulltorefresh/library/PullToRefreshListView.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/handmark/pulltorefresh/library/PullToRefreshScrollView.java" afterPath="$PROJECT_DIR$/p2r-lib/src/main/java/com/handmark/pulltorefresh/library/PullToRefreshScrollView.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/handmark/pulltorefresh/library/PullToRefreshWebView.java" afterPath="$PROJECT_DIR$/p2r-lib/src/main/java/com/handmark/pulltorefresh/library/PullToRefreshWebView.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/handmark/pulltorefresh/library/extras/PullToRefreshWebView2.java" afterPath="$PROJECT_DIR$/p2r-lib/src/main/java/com/handmark/pulltorefresh/library/extras/PullToRefreshWebView2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/handmark/pulltorefresh/library/extras/SoundPullEventListener.java" afterPath="$PROJECT_DIR$/p2r-lib/src/main/java/com/handmark/pulltorefresh/library/extras/SoundPullEventListener.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/handmark/pulltorefresh/library/internal/EmptyViewMethodAccessor.java" afterPath="$PROJECT_DIR$/p2r-lib/src/main/java/com/handmark/pulltorefresh/library/internal/EmptyViewMethodAccessor.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/handmark/pulltorefresh/library/internal/FlipLoadingLayout.java" afterPath="$PROJECT_DIR$/p2r-lib/src/main/java/com/handmark/pulltorefresh/library/internal/FlipLoadingLayout.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/handmark/pulltorefresh/library/internal/IndicatorLayout.java" afterPath="$PROJECT_DIR$/p2r-lib/src/main/java/com/handmark/pulltorefresh/library/internal/IndicatorLayout.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/handmark/pulltorefresh/library/internal/LoadingLayout.java" afterPath="$PROJECT_DIR$/p2r-lib/src/main/java/com/handmark/pulltorefresh/library/internal/LoadingLayout.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/handmark/pulltorefresh/library/internal/RotateLoadingLayout.java" afterPath="$PROJECT_DIR$/p2r-lib/src/main/java/com/handmark/pulltorefresh/library/internal/RotateLoadingLayout.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/handmark/pulltorefresh/library/internal/Utils.java" afterPath="$PROJECT_DIR$/p2r-lib/src/main/java/com/handmark/pulltorefresh/library/internal/Utils.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/handmark/pulltorefresh/library/internal/ViewCompat.java" afterPath="$PROJECT_DIR$/p2r-lib/src/main/java/com/handmark/pulltorefresh/library/internal/ViewCompat.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/anim/slide_in_from_bottom.xml" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/anim/slide_in_from_bottom.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/anim/slide_in_from_top.xml" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/anim/slide_in_from_top.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/anim/slide_out_to_bottom.xml" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/anim/slide_out_to_bottom.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/anim/slide_out_to_top.xml" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/anim/slide_out_to_top.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/default_ptr_flip.png" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/drawable-hdpi/default_ptr_flip.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/default_ptr_rotate.png" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/drawable-hdpi/default_ptr_rotate.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/indicator_arrow.png" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/drawable-hdpi/indicator_arrow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/default_ptr_flip.png" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/drawable-mdpi/default_ptr_flip.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/default_ptr_rotate.png" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/drawable-mdpi/default_ptr_rotate.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/indicator_arrow.png" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/drawable-mdpi/indicator_arrow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/default_ptr_flip.png" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/drawable-xhdpi/default_ptr_flip.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/default_ptr_rotate.png" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/drawable-xhdpi/default_ptr_rotate.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/indicator_arrow.png" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/drawable-xhdpi/indicator_arrow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/indicator_bg_bottom.xml" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/drawable/indicator_bg_bottom.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/indicator_bg_top.xml" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/drawable/indicator_bg_top.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/pull_to_refresh_header_horizontal.xml" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/layout/pull_to_refresh_header_horizontal.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/pull_to_refresh_header_vertical.xml" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/layout/pull_to_refresh_header_vertical.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/values-ar/pull_refresh_strings.xml" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/values-ar/pull_refresh_strings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/values-cs/pull_refresh_strings.xml" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/values-cs/pull_refresh_strings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/values-de/pull_refresh_strings.xml" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/values-de/pull_refresh_strings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/values-es/pull_refresh_strings.xml" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/values-es/pull_refresh_strings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/values-fi/pull_refresh_strings.xml" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/values-fi/pull_refresh_strings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/values-fr/pull_refresh_strings.xml" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/values-fr/pull_refresh_strings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/values-he/pull_refresh_strings.xml" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/values-he/pull_refresh_strings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/values-it/pull_refresh_strings.xml" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/values-it/pull_refresh_strings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/values-iw/pull_refresh_strings.xml" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/values-iw/pull_refresh_strings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/values-ja/pull_refresh_strings.xml" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/values-ja/pull_refresh_strings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/values-ko/pull_refresh_strings.xml" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/values-ko/pull_refresh_strings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/values-nl/pull_refresh_strings.xml" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/values-nl/pull_refresh_strings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/values-pl/pull_refresh_strings.xml" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/values-pl/pull_refresh_strings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/values-pt-rBR/pull_refresh_strings.xml" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/values-pt-rBR/pull_refresh_strings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/values-pt/pull_refresh_strings.xml" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/values-pt/pull_refresh_strings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/values-ro/pull_refresh_strings.xml" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/values-ro/pull_refresh_strings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/values-ru/pull_refresh_strings.xml" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/values-ru/pull_refresh_strings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/values-zh/pull_refresh_strings.xml" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/values-zh/pull_refresh_strings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/values/attrs.xml" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/values/attrs.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/values/dimens.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/values/ids.xml" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/values/ids.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/values/pull_refresh_strings.xml" afterPath="$PROJECT_DIR$/p2r-lib/src/main/res/values/pull_refresh_strings.xml" />
+    </list>
     <ignored path="library.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/build/classes/" />
@@ -32,7 +256,7 @@
     <favorites_list name="library" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="import-summary.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/import-summary.txt">
           <provider selected="true" editor-type-id="text-editor">
@@ -44,7 +268,7 @@
         </entry>
       </file>
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+        <entry file="file://$PROJECT_DIR$/p2r-lib/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
@@ -54,6 +278,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -78,8 +305,8 @@
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value=":app" />
-                <option name="path" value="$PROJECT_DIR$/app" />
+                <option name="name" value=":p2r-lib" />
+                <option name="path" value="$PROJECT_DIR$/p2r-lib" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
                 <option name="name" value="Android-PullToRefresh-Gradle" />
@@ -1334,11 +1561,627 @@
             </list>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/p2r-lib">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="mergeDebugProguardFiles" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':p2r-lib'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="packageReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="validateSigningDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="assembleReleaseUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="prepareDebugDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a bundle containing the library in debug." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="bundleDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="copyDebugLint" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="processReleaseJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="generateReleaseAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs lint on the Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="lintDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a bundle containing the library in release." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="bundleRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="assembleDebugUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates a version of android.jar that's suitable for unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="mockableAndroidJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':p2r-lib'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':p2r-lib'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="compileDebugSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="packageReleaseRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="mergeReleaseProguardFiles" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="incrementalDebugJavaCompilationSafeguard" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all device checks using Device Providers and Test Servers." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="deviceCheck" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':p2r-lib'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="processDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs lint on all variants." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="lint" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="compileReleaseNdk" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="generateDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="compileDebugJavaWithJavac" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="generateDebugAndroidTestBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="processDebugUnitTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run unit tests for the release build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="testReleaseUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="assembleDefault" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="compileDebugAndroidTestShaders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="mergeDebugShaders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="transformNative_libsWithMergeJniLibsForDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="compileDebugAndroidTestJavaWithJavac" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':p2r-lib'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="compileReleaseRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="transformNative_libsWithSyncJniLibsForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all Debug builds." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="assembleDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="processDebugAndroidTestManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="compileDebugUnitTestJavaWithJavac" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="transformResourcesWithMergeJavaResForReleaseUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="preDebugAndroidTestBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="processDebugAndroidTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="processReleaseUnitTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="transformClassesAndResourcesWithSyncLibJarsForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="compileReleaseShaders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="generateDebugAndroidTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="prepareDebugAndroidTestDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="incrementalDebugAndroidTestJavaCompilationSafeguard" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="transformClassesAndResourcesWithSyncLibJarsForDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="checkReleaseManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="packageDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="compileDebugAndroidTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="mergeReleaseJniLibFolders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="prepareReleaseDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="processReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs and runs instrumentation tests using all Device Providers." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="deviceAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="mergeDebugAndroidTestAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="processReleaseManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstalls the android (on device) tests for the Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="uninstallDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':p2r-lib'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="generateReleaseSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="incrementalReleaseUnitTestJavaCompilationSafeguard" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="preReleaseBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all variants of all applications and secondary packages." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="incrementalDebugUnitTestJavaCompilationSafeguard" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="incrementalReleaseJavaCompilationSafeguard" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="compileReleaseUnitTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the android (on device) tests for the Debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="installDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="mergeDebugAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all device checks on currently connected devices." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="connectedCheck" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs and runs the tests for debug on connected devices." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="connectedDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstall all applications." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="uninstallAll" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all the Test applications." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="assembleAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="processDebugAndroidTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="transformNative_libsWithMergeJniLibsForDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="compileDebugAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="preDebugUnitTestBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="compileLint" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="generateDebugAndroidTestResValues" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="mergeReleaseShaders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the Android dependencies of the project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="androidDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="compileDebugAndroidTestNdk" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="compileDebugUnitTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="generateDebugSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="mergeDebugAndroidTestJniLibFolders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="extractProguardFiles" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="transformClassesWithDexForDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="assembleDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="copyReleaseLint" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="processDebugJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="generateDebugAndroidTestAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="compileReleaseJavaWithJavac" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="transformResourcesWithMergeJavaResForDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="prepareReleaseUnitTestDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run unit tests for all variants." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="compileDebugNdk" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="transformNative_libsWithMergeJniLibsForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="mergeDebugAndroidTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="preReleaseUnitTestBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="generateDebugResValues" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run unit tests for the debug build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="testDebugUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs and runs instrumentation tests for all flavors on connected devices." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="connectedAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="preBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="transformResourcesWithMergeJavaResForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="compileReleaseSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="compileReleaseUnitTestJavaWithJavac" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="compileDebugShaders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="transformResourcesWithMergeJavaResForDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="compileReleaseAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs lint on the Release build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="lintRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="generateDebugAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':p2r-lib'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="checkDebugManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="mergeDebugJniLibFolders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prints out all the source sets defined in this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="sourceSets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="transformResourcesWithMergeJavaResForDebugUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="mergeReleaseAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="compileDebugRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="packageDebugRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="generateReleaseBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="prepareDebugUnitTestDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="generateReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the signing info for each variant." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="signingReport" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="compileDebugAndroidTestAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="mergeDebugAndroidTestShaders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="preDebugBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="transformNative_libsWithSyncJniLibsForDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="generateDebugBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all Release builds." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="assembleRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="compileDebugAndroidTestRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="generateDebugAndroidTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="processDebugManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="packageDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="generateReleaseResValues" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':p2r-lib'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/p2r-lib" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="D:\Stuff\GitHub\Android-PullToRefresh-Gradle" value="5024622284723" />
+        <entry key="D:\Stuff\GitHub\Android-PullToRefresh-Gradle" value="5024622836444" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1536,6 +2379,100 @@
                       </ExternalModuleBuildClasspathPojo>
                     </value>
                   </entry>
+                  <entry key="$PROJECT_DIR$/p2r-lib">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/2.2.0/7e17f92ac6c97b92faeead32834cb0711a016c75/gradle-2.2.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/2.2.0/e15d0f8c5ca4d152ec0ef5654b47d31c899ea22e/gradle-2.2.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/2.2.0/c8ab1dfd40f88ed5d4e49e842c8aad2c43c5573a/gradle-core-2.2.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/2.2.0/b566730c2a4bcd6288d03a16a57960eec0c2b2a8/gradle-core-2.2.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/2.2.0/adbc0dd468936ab270b1ed3707e0041257b42f8a/builder-2.2.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/2.2.0/49716521b21b0419a6b0c537a4a89098c6a2bd9f/builder-2.2.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint/25.2.0/148f3bbbc7e7c2d01c35b528670b6e9ebdb43de1/lint-25.2.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint/25.2.0/78c653954cfe72664363b3c024dbf469db4a5cc6/lint-25.2.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/transform-api/2.0.0-deprecated-use-gradle-api/transform-api-2.0.0-deprecated-use-gradle-api.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-api/2.2.0/gradle-api-2.2.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/compilerCommon/2.2.0/14ba40b62620e733f6ee78d9992b6a3639cb9fbd/compilerCommon-2.2.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/compilerCommon/2.2.0/7af7ece41e181b8a0661c57dec844dd9726125d9/compilerCommon-2.2.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm/5.0.4/asm-5.0.4-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-commons/5.0.4/asm-commons-5.0.4.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-gradle/5.2.1/proguard-gradle-5.2.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/jacoco/org.jacoco.core/0.7.5.201505241946/org.jacoco.core-0.7.5.201505241946.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/jacoco/org.jacoco.report/0.7.5.201505241946/org.jacoco.report-0.7.5.201505241946.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/jopt-simple/jopt-simple/4.9/jopt-simple-4.9.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/antlr/3.5.2/antlr-3.5.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-model/2.2.0/461cebc9547ddae993e0dab74f6f9810bbd7dc6b/builder-model-2.2.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-model/2.2.0/588d8c73191c720460df8cd3b5e02071ed141516/builder-model-2.2.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/2.2.0/b1df4649a8d0cc0cf7a849b66d3481205368532/builder-test-api-2.2.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/2.2.0/2203cbe2622715b0adc0771b314eaaec401a5fe/builder-test-api-2.2.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdklib/25.2.0/12405ca620e03faae3b681003c335626954b30b8/sdklib-25.2.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdklib/25.2.0/f3b99b0d23850dee9ee3b26365d27afcb68fb0c5/sdklib-25.2.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdk-common/25.2.0/5a7032d71686df6017e94503ff823795749cbbc3/sdk-common-25.2.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdk-common/25.2.0/ce7ee639da75ccbc846c9555006b6591932ef442/sdk-common-25.2.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/common/25.2.0/e078970f9eaf6dba38c40b13b281589cdf446e96/common-25.2.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/common/25.2.0/4ee14a47db41fd572dd0824d734d82702898f489/common-25.2.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/manifest-merger/25.2.0/bc38e5b6b4ccce5ba4c50e445fbbe7b286fe7560/manifest-merger-25.2.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/manifest-merger/25.2.0/9005a0796eb9c8072570d923ca5e777986cf4925/manifest-merger-25.2.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.ddms/ddmlib/25.2.0/970e11269559839c568fbdd2a8d6671e22482e35/ddmlib-25.2.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.ddms/ddmlib/25.2.0/339312ca89e3bc493f6cf5cd476b2ed6e7ae8dab/ddmlib-25.2.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/jack/jack-api/0.11.0/jack-api-0.11.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/jill/jill-api/0.10.0/jill-api-0.10.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/protos/25.2.0/bd45fede698bd5459328b20e2d48cb2aedfcb86a/protos-25.2.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/protos/25.2.0/cd4e7b2fc61b1d1a9147ea4f2589b2fa920e9e76/protos-25.2.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/shared/25.2.0/fdc715ae115b5cf31383d25584671beda41b4170/shared-25.2.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/shared/25.2.0/e581c4e44e899843137223bd3a2440e7e3a71d2c/shared-25.2.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/tracker/25.2.0/e7952a93a2e523178da12e1e2a9393f4a9246439/tracker-25.2.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/tracker/25.2.0/f15c5d5ce911810472f396a7a2c60c4d89ca7c7d/tracker-25.2.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/squareup/javawriter/2.5.0/javawriter-2.5.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-tree/5.0.4/asm-tree-5.0.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-checks/25.2.0/fb880e15f8d08d65b8e30b7ede14e995be203cca/lint-checks-25.2.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-checks/25.2.0/c0b3925aa340a05dae352c6af2c8dd7d47c51a52/lint-checks-25.2.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/guava/guava/18.0/guava-18.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.2.0/2b596b3605c852ecfdb4bbad07246ddf11b10fbc/baseLibrary-2.2.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.2.0/e1d81f36ef9a5803689b3e888eb93a8759a17be0/baseLibrary-2.2.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/antlr4/4.5.3/antlr4-4.5.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/googlecode/juniversalchardet/juniversalchardet/1.0.3/juniversalchardet-1.0.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/annotations/25.2.0/4435cbf612836a0c92f32728d786f7de06b11dc1/annotations-25.2.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/annotations/25.2.0/f07c4b91d117232785ccc2f5e63d3902cdf44140/annotations-25.2.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-base/5.2.1/proguard-base-5.2.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-debug-all/5.0.1/asm-debug-all-5.0.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/antlr-runtime/3.5.2/antlr-runtime-3.5.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/ST4/4.0.8/ST4-4.0.8.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.layoutlib/layoutlib-api/25.2.0/85a3f34f76282aafc3e4711daad39dc14833e4aa/layoutlib-api-25.2.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.layoutlib/layoutlib-api/25.2.0/e266193ddb42b786fa4929bb22cf098a73785c4/layoutlib-api-25.2.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/25.2.0/edc4f17a63913a51d80cd4fe8630b232c7d0ab15/dvlib-25.2.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/25.2.0/23e406ff902b5e2a145e3b91b573564acd26ddd1/dvlib-25.2.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/25.2.0/2aead1b2c6bd02cf6732409fbe9d5e055dd6513d/repository-25.2.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/25.2.0/bd02105d322a8bd5671764d2feb6f967b4c097e3/repository-25.2.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-api/25.2.0/ef9c4fe7318babe0bc22b21109836e68a2b3d43b/lint-api-25.2.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-api/25.2.0/73541919380714241b7629b56cf39ee54de4cb11/lint-api-25.2.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-analysis/5.0.4/asm-analysis-5.0.4.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/jimfs/jimfs/1.1/jimfs-1.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/com-intellij/uast/145.597.3/uast-145.597.3.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/p2r-lib" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
                 </map>
               </option>
               <option name="name" value="app" />
@@ -1719,8 +2656,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -1738,39 +2673,21 @@
               <option name="myItemId" value="Android-PullToRefresh-Gradle" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Android-PullToRefresh-Gradle" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="library" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$PROJECT_DIR$/../../Programming/legacy-android-sdk" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="android.project.structure.last.selected" value="app" />
+    <property name="android.project.structure.proportion" value="0.15" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -1881,36 +2798,36 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1048" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1048" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1937,7 +2854,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+    <entry file="file://$PROJECT_DIR$/p2r-lib/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/import-summary.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p2r-lib/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
